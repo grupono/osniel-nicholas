@@ -1,12 +1,12 @@
 # osniel-nicholas
 Projeto do semestre
-Tema:
+Tema: Rede Social para Pets
 
-Público-alvo:
+Público-alvo: donos de animais de estimação
 
-Objetivos do site:
+Objetivos do site: permitir que os usuarios compartilhem informações sobre cuidados, petshops, dicas de passei e marcar encontros 
 
-Funcionalidades do site:
+Funcionalidades do site: 
 
 Usuário Administrador:
 
